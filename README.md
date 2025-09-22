@@ -16,6 +16,6 @@ hi i am pixelpill <br>i like coding<br>"Aim for failure and you will always succ
 ![](https://github-profile-trophy.vercel.app/?username=pixelpill&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![]"Aim for failure and you will always succeed"
+"Aim for failure and you will always succeed"
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
