@@ -1,6 +1,5 @@
 # 💫 About Me:
-hi i am pixelpill <br>i like coding<br>"Aim for failure and you will always succeed"
-
+hi i am pixelpill <br>i like coding<br>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCp6nlBTuz5ZB7Ba6KdlG6MA) 
